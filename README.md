@@ -1,4 +1,4 @@
-# vue-passport
+# vue-login-register-with-jwt
 
 ## Project setup
 ```
